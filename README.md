@@ -117,9 +117,9 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 * **Thursday, April 6th** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 * **Wednesday, April 12th from 4-6pm** - Presentations (open to family and friends)
- * **Thursday, April 13th from 9-11am** - 1:1 Feedback. All [project deliverables](#completed-project-deliverables) due!
+   * **Thursday, April 13th from 9-11am** - 1:1 Feedback. All [project deliverables](#completed-project-deliverables) due!
 * **Thursday, April 13th from 4-6pm** - Presentations (open to family and friends)
- * **Friday, April 14th from 9-11am** - 1:1 Feedback. All [project deliverables](#completed-project-deliverables) due!
+   * **Friday, April 14th from 9-11am** - 1:1 Feedback. All [project deliverables](#completed-project-deliverables) due!
 * **Friday, April 14th 11am** - Graduation, Lunch, Outcomes
 
 ---
