@@ -39,6 +39,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 * **Pitch your idea** to your classmates and instructors, and incorporate their feedback.
 * **Make productive use of your time**, and balance responsibilities to make a complete, impressive-looking project.
 * **Focus on writing solid, real-world code** that is well-documented and DRY.
+* **Polish** your UI
 
 ---
 
@@ -114,9 +115,11 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### When is the project due?
 
-* **{{ENTER PROJECT PLANNING DELIVERABLES HERE}}** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
-
-* **{{ENTER PROJECT PRESENTATION AND DUE DATE HERE}}** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Thursday, April 6th** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Wednesday, April 12th from 4-6pm** - Presentations (open to family and friends)
+* **Thursday, April 13th from 4-6pm** - Presentations (open to family and friends)
+* **Thursday, April 13th & Friday, April 14th from 9-11am** - 1:1 Feedback. All [project deliverables](#completed-project-deliverables) due!
+* **Friday, April 14th 11am** - Graduation, Lunch, Outcomes
 
 ---
 
@@ -133,43 +136,14 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### What should I cover during my presentation?
 
-Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE DATE HERE}}**. Each presentation should be **8 minutes or less** and cover the following:
+Project 3 presentations will run from **4-6pm** on **April 12th & 13th**. Each presentation should be **10 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * Demo of your project's core functionality.
 * What is one feature you're particularly proud of? (show code)
 * Shout-outs for your fellow classmates!
 
----
-
-## Instructor Groups
-
-###### Who will be my assigned instructor / DIR for this project?
-
-You'll meet with your assigned instructor / DIR daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
+> Make sure you have tested the projector, and have zoomed in your browser 150%. Please avoid dark backgrounds.
 
 ---
 
