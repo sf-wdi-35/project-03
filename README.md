@@ -122,6 +122,8 @@ Make sure it's **something you can accomplish in the limited time we have**, and
    * *Friday, April 14th from 9-11am* - 1:1 Feedback. All [project deliverables](#completed-project-deliverables) due!
 * **Friday, April 14th 11am** - Graduation, Lunch, Outcomes
 
+Presentation schedule is here: [schedule](https://docs.google.com/spreadsheets/d/1r0XVV8fbH4pHaObyOxAPwvHt68jryQlVzjeMG4QUXko/edit#gid=526561426)
+
 ---
 
 ## Submission
